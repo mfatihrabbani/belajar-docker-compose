@@ -1,5 +1,5 @@
 # Learn Docker Compose
 Tools :
-- Linux
+- Linux OS
 - Docker
 - Docker Compose
